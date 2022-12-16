@@ -8,3 +8,5 @@ git remote add mirror <mirror repo that must already exist>
 
 # Get everything
 git pull -v
+
+(dont mind this)
